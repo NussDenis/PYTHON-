@@ -37,3 +37,4 @@ for i in range(len(list_1)):
             list_3.append(list_1[i])
 list_3 = list(set(list_3))
 print(f'Последовательность в порядке возрастания чисел в обоих наборах: {selection_sort(list_3)}')
+
